@@ -525,3 +525,6 @@ pip install -r requirements.txt
  4. Run the provided code snippets in sequence, adjusting paths as necessary.
 
 This README provides a comprehensive guide to the workflow, ensuring transparency and reproducibility of the Bitcoin price and returns prediction projects.
+
+## Author
+Ohene-Addo Fredinard 
