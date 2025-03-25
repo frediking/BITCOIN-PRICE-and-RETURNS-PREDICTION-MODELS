@@ -2,7 +2,7 @@
 
 ## Introduction
 
-#### This repository contains and end to end predictive analysis with two distinct projects aimed at predicting Bitcoin prices and returns using machine learning techniques. 
+#### This repository contains an end to end predictive analysis with two distinct projects aimed at predicting Bitcoin prices and returns using machine learning techniques. 
 **It first starts with the 2014-2024 Bitcoin Data Analysis which was done for data cleaning ,feature engineering etc to get the additional columns in the dataset used for machine learning**
 **The first project employs a Random Forest Regression model to predict the Bitcoin price target variable. The second project extends this approach by utilizing both Random Forest Regression and Gradient Boosting Regression models to predict both Bitcoin price and daily returns target variables.**
 **The primary objective of these projects is to assess the predictive performance of these models on financial time series data and identify the most effective approach for forecasting Bitcoin price movements and returns.**
