@@ -1,8 +1,6 @@
-# Bitcoin Price and Returns Prediction using Machine Learning
+# Bitcoin Price and Returns Prediction Models
 
 ## Introduction
-
-# Bitcoin Price and Returns Prediction Models
 
 This repository contains a suite of models and experiments for forecasting Bitcoin prices and returns. It is designed for data analysts and researchers interested in applying traditional and innovative methods to cryptocurrency time series data. This README outlines the project structure—excluding descriptions of individual Python script files—to help you quickly locate and understand key components of the repository.
 
